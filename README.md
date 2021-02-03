@@ -1,4 +1,4 @@
-# Course information Empirical Industrial Organization 2020 at Cergy Paris Université
+# Course information Empirical Industrial Organization 2021 at Cergy Paris Université
 
 
 ## Lecture 1
