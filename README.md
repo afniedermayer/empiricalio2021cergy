@@ -11,6 +11,8 @@
 
 [Notebook on Kernel Density Estimation](kernel-density-example.ipynb)
 
+[Solution to Kernel Density Estimation Exercise](kernel-density-solution-symmetric.ipynb)
+
 ## Lecture 3
 
 ### Lecture Notes
