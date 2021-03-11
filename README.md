@@ -1,5 +1,8 @@
 # Course information Empirical Industrial Organization 2021 at Cergy Paris Université
 
+## Take-Home Exam
+
+[Take-Home Exam](take-home-exam.ipynb)
 
 ## Lecture 1
 
